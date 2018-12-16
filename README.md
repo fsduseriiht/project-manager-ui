@@ -31,7 +31,7 @@ If you are running the application from Docker Tool Box for windows (for older w
 Information on docker commands and execution -
 # First Step - Go to UI project root folder and execute the build command: ng build [-or-] ng build --prod
 
-Docker for UI Layer - Task Tracker Project
+Docker for UI Layer - PROJECT MANAGER Project
 -----------------------------------------------------------------------
 General Commands to be executed in Docker related to push/build/run- 
 =======================================================================
